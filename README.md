@@ -1,6 +1,6 @@
-#+TITLE: tilde.club hosts
+# tilde.club hosts
 
-* What is this?
+## What is this?
 
 Just a hosts file. @reppep is [rightfully suspicious of it](https://github.com/tildeclub/tilde.hosts/issues/1).
 
@@ -10,7 +10,7 @@ and the IP address. Every server in the network would mirror this
 file. This is how early Unix machines wired up to each other in the
 days before DNS.
 
-* What now?
+## What now?
 
 I dunno. If you want to be a peer of tilde.club then you could add
 your IP here? Nothing is implemented. I'm just putting it here as a

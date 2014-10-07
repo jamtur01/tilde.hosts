@@ -1,0 +1,16 @@
+#+TITLE: tilde.club hosts
+
+* What is this?
+
+Just a hosts file. The vague idea I (Paul) have going on is that if
+you want to be a tilde.club peer you tell us the name of your server
+and the IP address. Every server in the network would mirror this
+file. This is how early Unix machines wired up to each other in the
+days before DNS.
+
+* What now?
+
+I dunno. If you want to be a peer of tilde.club then you could add
+your IP here? Nothing is implemented. I'm just putting it here as a
+kind of placeholder for some things to figure out later.
+

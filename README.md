@@ -16,3 +16,5 @@ I dunno. If you want to be a peer of tilde.club then you could add
 your IP here? Nothing is implemented. I'm just putting it here as a
 kind of placeholder for some things to figure out later.
 
+## host-gen.py
+The host-gen.py script can be used to dynamically recreate the hosts file. It will create a new file called host-data in the current directory, which should be manually verified prior to overwriting the existing /etc/hosts file.
